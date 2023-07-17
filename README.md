@@ -186,7 +186,7 @@ k<a href="https://github.com/chandannekya"><img alt="Bootstrap" src="https://img
 
 <a href="https://github.com/Chandannekya">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=chandannekya&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="chandannekya ">
+<img src="https://activity-graph.herokuapp.com/graph?username=chandannekya&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="chandannekya">
 
 </a>
 
