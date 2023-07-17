@@ -151,8 +151,8 @@ k<a href="https://github.com/chandannekya"><img alt="Bootstrap" src="https://img
 
 
 
-<!-
-<a href="https://github.com/Chandannekya "><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+<
+<a href="https://github.com/Chandannekya"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 
 
@@ -163,11 +163,11 @@ k<a href="https://github.com/chandannekya"><img alt="Bootstrap" src="https://img
 <br/>
 
 <p align="center">
-<a href="https://github.com/Chandannekya ">
+<a href="https://github.com/Chandannekya">
 
 <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chandannekya &show_icons=true" alt="chandannekya ">
 
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandannekya " alt="chandannekya ">
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandannekya" alt="chandannekya">
 
 </a>
 
@@ -184,9 +184,9 @@ k<a href="https://github.com/chandannekya"><img alt="Bootstrap" src="https://img
 
 <p align="center">
 
-<a href="https://github.com/Chandannekya ">
+<a href="https://github.com/Chandannekya">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=chandannekya &bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="chandannekya ">
+<img src="https://activity-graph.herokuapp.com/graph?username=chandannekya&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="chandannekya ">
 
 </a>
 
@@ -204,9 +204,9 @@ k<a href="https://github.com/chandannekya"><img alt="Bootstrap" src="https://img
 
 <p align="center">
 
-<a href="https://github.com/Chandannekya ">
+<a href="https://github.com/Chandannekya">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandannekya &langs_count=8&layout=compact" alt="chandannekya ">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandannekya &langs_count=8&layout=compact" alt="chandannekya">
 
 </a>
 
@@ -238,7 +238,7 @@ If you have any questions about front-end web development, feel free to <a href=
 
 
 
-You can hire me as a freelancer on <a  <a href="https://www.linkedin.com/in/chandannekya /">LinkedIn</a> 
+You can hire me as a freelancer on <a  <a href="https://www.linkedin.com/in/chandannekya/">LinkedIn</a> 
 
 
 
