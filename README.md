@@ -59,7 +59,7 @@ Hi, I'm Chandan
 
 🚩 Interested in Full Stack Machine Learning Application development
 
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1tJ99k3tTeHIE3DH9hPRwj0OmUiPb9lmg/view?usp=drivesdk">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b>this is <a href="https://drive.google.com/file/d/1tJ99k3tTeHIE3DH9hPRwj0OmUiPb9lmg/view?usp=drivesdk">MY RESUME.</a>
 
 </pre>
 <hr>
