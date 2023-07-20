@@ -116,7 +116,7 @@ Hi, I'm Chandan
 
 <a href="https://github.com/chandannekya"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
 
-k<a href="https://github.com/chandannekya"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
+<a href="https://github.com/chandannekya"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 
 </p>
 
@@ -139,11 +139,11 @@ k<a href="https://github.com/chandannekya"><img alt="Bootstrap" src="https://img
 
 <a href="https://github.com/chandannekya"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
 
-<a href="https://github.com/Chandannekya "><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="https://github.com/Chandannekya"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
-<a href="https://github.com/Chandannekya "><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+<a href="https://github.com/Chandannekya"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 
-<a href="https://github.com/Chandannekya "><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="https://github.com/Chandannekya"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 
 </p>
 
@@ -151,22 +151,22 @@ k<a href="https://github.com/chandannekya"><img alt="Bootstrap" src="https://img
 
 
 
-<
-<a href="https://github.com/Chandannekya"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+
+
 
 
 
 <br/>
 
-<summary><b>⚡ Chandannekya 's Stats</b></summary>
+<summary><b>⚡Stats</b></summary>
 
 <br/>
 
 <p align="center">
 <a href="https://github.com/Chandannekya">
 
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chandannekya &show_icons=true" alt="chandannekya ">
 
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chandannekya&show_icons=true" alt="chanadannekya">
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandannekya" alt="chandannekya">
 
 </a>
@@ -177,36 +177,20 @@ k<a href="https://github.com/chandannekya"><img alt="Bootstrap" src="https://img
 
 <br/>
 
-<!-
-<summary><b>⚡ Activity graph</b></summary>
 
-<br/>
 
-<p align="center">
-
-<a href="https://github.com/Chandannekya">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=chandannekya&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="chandannekya">
-
-</a>
-
-</p>
-
-<br/>
-
--->
 
 <summary><b>⚡ Top Languages</b></summary>
 
 <br/>
 
 
-
+<b>
 <p align="center">
 
 <a href="https://github.com/Chandannekya">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandannekya &langs_count=8&layout=compact" alt="chandannekya">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandannekya&langs_count=8&layout=compact" alt="chandannekya">
 
 </a>
 
