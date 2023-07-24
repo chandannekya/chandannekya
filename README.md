@@ -1,5 +1,6 @@
+<img align ="right" src="https://github.com/chandannekya/gif/blob/a6ffc0b881f47b5c070059eadd1e02c0e2aa008d/videoplasty-11018-chill-coding-programming-lofi-animation-stock-animation-pdp.gif" alt="gif">
 <h1 align="center">
-
+<img align ="center" src="https://github.com/chandannekya/gif/blob/a6ffc0b881f47b5c070059eadd1e02c0e2aa008d/videoplasty-11018-chill-coding-programming-lofi-animation-stock-animation-pdp.gif" alt="gif">
 Hi, I'm Chandan 
 <a href="https://github.com/chandannekya" target="_self">
 
