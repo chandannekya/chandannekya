@@ -2,7 +2,6 @@
 <h1 align="center">
 <img align ="center" src="https://github.com/chandannekya/gif/blob/a6ffc0b881f47b5c070059eadd1e02c0e2aa008d/videoplasty-11018-chill-coding-programming-lofi-animation-stock-animation-pdp.gif" alt="gif">
 Hi, I'm Chandan 
-<a href="https://github.com/chandannekya" target="_self">
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
@@ -12,7 +11,6 @@ Hi, I'm Chandan
 
 <p align="center">
 
-<a href="https://github.com/chandannekya">
 
 <img src="https://komarev.com/ghpvc/?username=chandannekya &label=Profile%20views&color=0e75b6&style=flat" alt="chandannekya " />
 
