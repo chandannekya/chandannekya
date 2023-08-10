@@ -65,29 +65,29 @@ Hi, I'm Chandan
 
 
 
-## 🤝 Connect with me
+<h3 align="center">  Connect with me 🤝</h3>
 
-<p align="left">
-	<a href="mailto:chandannekya@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/chandannekya/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/chadnannekya"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+<p align="center">
+	<a href="mailto:chandannekya@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/128/2875/2875394.png"/></a>
+	<a href="https://www.linkedin.com/in/chandannekya/"><img height="50" src="https://cdn-icons-png.flaticon.com/128/1383/1383262.png" alt="LinkedIn"/></a>
+	<a href="https://github.com/chadnannekya"><img height="50" src="https://cdn-icons-png.flaticon.com/128/3488/3488408.png" alt="GitHub"/></a>
 	
 </p>
 
 
 
-## 🛠️ My Favorite Tools
+🛠️ My Favorite Tools
 
 
 
-### 👨‍💻 Programming Languages
+<p align="center"> <h3 align="center">👨‍💻 Programming Languages</h3>
 
 
 
-<p align="left">
-	<a href="https://github.com/chandannekya"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-	<a href="https://github.com/chandannekya"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-	<a href="https://github.com/chandannekya"><img alt="Python" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+<p align="center">
+	<a href="https://github.com/chandannekya"><img alt="JavaScript" height="50" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></a>
+	<a href="https://github.com/chandannekya"><img alt="Python" height="50" src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png"></a>
+	<a href="https://github.com/chandannekya"><img alt="java" height="50" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"></a>
 
 
 ### 🧰 Frameworks and Libraries
