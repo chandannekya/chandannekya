@@ -2,17 +2,25 @@
 <h1 align="center">
 <img align ="center" width="100%" src="https://github.com/chandannekya/gif/blob/a6ffc0b881f47b5c070059eadd1e02c0e2aa008d/videoplasty-11018-chill-coding-programming-lofi-animation-stock-animation-pdp.gif" alt="gif">
 <h1 align = "center">Hi, I'm Chandan 
-
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+
+
+
 
 </a></h1>
 
 </h1>
+<p align="center">
+	<a href="mailto:chandannekya@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/128/2875/2875394.png"/></a>
+	<a href="https://www.linkedin.com/in/chandannekya/"><img height="50" src="https://cdn-icons-png.flaticon.com/128/1383/1383262.png" alt="LinkedIn"/></a>
+	<a href="https://github.com/chadnannekya"><img height="50" src="https://cdn-icons-png.flaticon.com/128/3488/3488408.png" alt="GitHub"/></a>
+	
+</p>
 
 <p align="center">
 
 
-<img src="https://komarev.com/ghpvc/?username=chandannekya &label=Profile%20views&color=0e75b6&style=flat" alt="chandannekya " />
+<img src="https://profile-counter.glitch.me/chandanekya/count.svg)"/>
 
 </a>
 
@@ -67,12 +75,7 @@
 
 <h3 align="left">  Connect with me 🤝</h3>
 
-<p align="left">
-	<a href="mailto:chandannekya@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/128/2875/2875394.png"/></a>
-	<a href="https://www.linkedin.com/in/chandannekya/"><img height="50" src="https://cdn-icons-png.flaticon.com/128/1383/1383262.png" alt="LinkedIn"/></a>
-	<a href="https://github.com/chadnannekya"><img height="50" src="https://cdn-icons-png.flaticon.com/128/3488/3488408.png" alt="GitHub"/></a>
-	
-</p>
+
 
 
 
