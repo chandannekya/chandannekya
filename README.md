@@ -65,9 +65,9 @@
 
 
 
-<h3 align="center">  Connect with me 🤝</h3>
+<h3 align="left">  Connect with me 🤝</h3>
 
-<p align="center">
+<p align="left">
 	<a href="mailto:chandannekya@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/128/2875/2875394.png"/></a>
 	<a href="https://www.linkedin.com/in/chandannekya/"><img height="50" src="https://cdn-icons-png.flaticon.com/128/1383/1383262.png" alt="LinkedIn"/></a>
 	<a href="https://github.com/chadnannekya"><img height="50" src="https://cdn-icons-png.flaticon.com/128/3488/3488408.png" alt="GitHub"/></a>
@@ -76,29 +76,23 @@
 
 
 
-🛠️ My Favorite Tools
 
 
 
-<p align="center"> <h3 align="center">👨‍💻 Programming Languages</h3>
+
+<p align="left"> <h3 align="left">👨‍💻 Programming Languages and Tools</h3>
 
 
 
-<p align="center">
+<p align="left">
+	<a href="https://github.com/chandannekya"><img alt="JavaScript" height="50" src="https://cdn-icons-png.flaticon.com/128/8970/8970761.png"></a>
 	<a href="https://github.com/chandannekya"><img alt="JavaScript" height="50" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></a>
 	<a href="https://github.com/chandannekya"><img alt="Python" height="50" src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png"></a>
 	<a href="https://github.com/chandannekya"><img alt="java" height="50" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"></a>
+	<a href="https://github.com/chandannekya"><img alt="java" height="50" src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png"></a>
+ 	<a href="https://github.com/chandannekya"><img alt="java" height="50" src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg"></a>
 
 
-### 🧰 Frameworks and Libraries
-
-
-
-<p align="left">
-	<a href="https://github.com/chandannekya"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-	<a href="https://github.com/chandannekya"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-	<a href="https://github.com/chandannekya"><img alt="Spring" src="https://img.shields.io/badge/Spring%20Boot%20-%2334A853.svg?logo=Springboot&logoColor=white"></a>
-	<a href="https://github.com/chandannekya"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 
 </p>
 
@@ -107,21 +101,7 @@
 
 
 
-### 💻 Software and Tools
 
-
-
-<p align="left">
- 	<a href="https://github.com/chandannekya"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-	<a href="https://github.com/chandannekya"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-	 <a href="https://github.com/chandannekya"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-	<a href="https://github.com/chandannekya"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-	 <a href="https://github.com/Chandannekya"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-	<a href="https://github.com/Chandannekya"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-	 <a href="https://github.com/Chandannekya"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-	
-
-</p>
 
 </br>
 
