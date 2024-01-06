@@ -162,7 +162,7 @@
 </p>
 
 <br/>
-
+[![An image of @chandannekya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandannekya)](https://holopin.io/@chandannekya)
 
 
 <table style="border: none">
