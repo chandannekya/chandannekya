@@ -13,18 +13,18 @@
 <p align="center">
 	<a href="mailto:chandannekya@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/128/2875/2875394.png"/></a>
 	<a href="https://www.linkedin.com/in/chandannekya/"><img height="50" src="https://cdn-icons-png.flaticon.com/128/1383/1383262.png" alt="LinkedIn"/></a>
-	<a href="https://github.com/chadnannekya"><img height="50" src="https://cdn-icons-png.flaticon.com/128/3488/3488408.png" alt="GitHub"/></a>
+	<a href="https://github.com/chadannekya"><img height="50" src="https://cdn-icons-png.flaticon.com/128/3488/3488408.png" alt="GitHub"/></a>
 	
 </p>
 
 <p align="center">
 
 
-<img src="https://profile-counter.glitch.me/chandanekya/count.svg)"/>
+<img src="https://profile-counter.glitch.me/chandanekya/count.svg"/>
 
 </a>
 
-<a href="https://github.com/Chandannekya ">
+<a href="https://github.com/Chandannekya">
 
 <img src="https://img.shields.io/github/followers/chandannekya ?label=Followers" alt="chandannekya " />
 
@@ -139,7 +139,7 @@
 
 
 
-<summary><b>⚡ Top Languages</b></summary>
+<summary><b>⚡Languages</b></summary>
 
 <br/>
 
