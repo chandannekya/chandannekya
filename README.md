@@ -15,20 +15,12 @@
 	<a href="https://github.com/chadannekya"><img height="50" src="https://cdn-icons-png.flaticon.com/128/3488/3488408.png" alt="GitHub"/></a>
 	
 </p>
+ 
+<div align="center">
+  
+![counter](https://komarev.com/ghpvc/?username=chandannekya)
 
-<p align="center">
-
-
-
-
-	
-<a href="https://github.com/Chandannekya">
-
-<img src="https://img.shields.io/github/followers/chandannekya ?label=Followers" alt="chandannekya " />
-
-</a>
-
-</p>
+</div>
 
 <br/>
 
@@ -50,21 +42,17 @@
 
 <pre>
 
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+💻 I am a self taught Full Stack Developer
 
 📚 I m pursing a Bachelors in Computer Science from the University of Lucknow 
 
-📝 I have a strong interest in Data Science and Artificial Intelligence
+📝 I have a strong interest in Web3 and Blockchain
 
 🔭 Working on web Development 
+	
+🌟 Main languages: Java,Javascript
 
-🌱 Learning about Computer Vision and Machine Learning stuff
-
-🌟 Main languages: Python, Java,C 
-
-🚩 Interested in Full Stack Machine Learning Application development
-
-🤔 I’m currently open for: <b>An Internship</b> this is <a href="https://drive.google.com/file/d/1tJ99k3tTeHIE3DH9hPRwj0OmUiPb9lmg/view?usp=drivesdk">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Internship</b> this is <a href="https://drive.google.com/file/d/1_5E9To3ztrm8D4HTng3rf-1d_YEIY3Cd/view?usp=sharing">MY RESUME.</a>
 
 </pre>
 <hr>
@@ -85,17 +73,8 @@
 
 
 
-<p align="left">
-	<a href="https://github.com/chandannekya"><img alt="JavaScript" height="50" src="https://cdn-icons-png.flaticon.com/128/8970/8970761.png"></a>
-	<a href="https://github.com/chandannekya"><img alt="JavaScript" height="50" src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png"></a>
-	<a href="https://github.com/chandannekya"><img alt="Python" height="50" src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png"></a>
-	<a href="https://github.com/chandannekya"><img alt="java" height="50" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"></a>
-	<a href="https://github.com/chandannekya"><img alt="java" height="50" src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png"></a>
- 	<a href="https://github.com/chandannekya"><img alt="java" height="50" src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg"></a>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,redux,express,c,java,py,mongodb,nodejs,npm,postman,vite,figma,git,)](https://skillicons.dev)
 
-
-
-</p>
 
 
 
@@ -119,41 +98,14 @@
 
 <br/>
 
-<p align="center">
-<a href="https://github.com/Chandannekya">
-
-
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chandannekya&show_icons=true" alt="chanadannekya">
-<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=chandannekya" alt="chandannekya">
-
-</a>
-
-<br/>
-
-</p>
-
-<br/>
 
 
 
+![chandannekya's Stats](https://github-readme-stats.vercel.app/api?username=chandannekya&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-<summary><b>⚡Languages</b></summary>
+![chandannekya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandannekya&theme=tokyonight&hide_border=false)
 
-<br/>
-
-
-<b>
-<p align="center">
-
-<a href="https://github.com/Chandannekya">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandannekya&langs_count=8&layout=compact" alt="chandannekya">
-
-</a>
-
-<br/>
-
-<br/>
+![chandannekya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandannekya&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
