@@ -34,7 +34,7 @@
 <hr>
 
 
-
+<div style="display: flex; align-items: center;">
 <pre>
 
 💻 I am a self taught Full Stack Developer
@@ -50,6 +50,8 @@
 🤔 I’m currently open for: <b>An Internship</b> this is <a href="https://drive.google.com/file/d/1_5E9To3ztrm8D4HTng3rf-1d_YEIY3Cd/view?usp=sharing">MY RESUME.</a>
 
 </pre>
+<img  src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif"/>
+</div>
 <hr>
 
 
