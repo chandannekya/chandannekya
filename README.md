@@ -9,12 +9,7 @@
 </a></h1>
 
 </h1>
-<p align="center">
-	<a href="mailto:chandannekya@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/128/2875/2875394.png"/></a>
-	<a href="https://www.linkedin.com/in/chandannekya/"><img height="50" src="https://cdn-icons-png.flaticon.com/128/1383/1383262.png" alt="LinkedIn"/></a>
-	<a href="https://github.com/chadannekya"><img height="50" src="https://cdn-icons-png.flaticon.com/128/3488/3488408.png" alt="GitHub"/></a>
-	
-</p>
+
  
 <div align="center">
   
@@ -63,7 +58,14 @@
 
 
 
+<p align="left">
+	<a href="mailto:chandannekya@gmail.com"><img height="50" src="https://cdn-icons-png.flaticon.com/128/2875/2875394.png"/></a>
+	<a href="https://www.linkedin.com/in/chandannekya/"><img height="50" src="https://cdn-icons-png.flaticon.com/128/1383/1383262.png" alt="LinkedIn"/></a>
+	<a href="https://github.com/chadannekya"><img height="50" src="https://cdn-icons-png.flaticon.com/128/3488/3488408.png" alt="GitHub"/></a>
+	
 
+	
+</p>
 
 
 
