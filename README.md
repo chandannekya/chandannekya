@@ -1,7 +1,7 @@
 
 
 <h1 align = "center">Hi, I'm Chandan 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 
 
@@ -9,8 +9,9 @@
 </a></h1>
 
 </h1>
-
- 
+<p align="center">
+<img align="center" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif"/>
+</p>
 <div align="center">
   
 ![counter](https://komarev.com/ghpvc/?username=chandannekya)
@@ -50,7 +51,7 @@
 🤔 I’m currently open for: <b>An Internship</b> this is <a href="https://drive.google.com/file/d/1_5E9To3ztrm8D4HTng3rf-1d_YEIY3Cd/view?usp=sharing">MY RESUME.</a>
 
 </pre>
-<img  src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif"/>
+
 </div>
 <hr>
 
