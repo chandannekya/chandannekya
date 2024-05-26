@@ -92,7 +92,7 @@
 
 
 
-
+<hr>
 
 
 
@@ -107,7 +107,6 @@
 
 
 ![chandannekya's Stats](https://github-readme-stats.vercel.app/api?username=chandannekya&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
 ![chandannekya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandannekya&theme=tokyonight&hide_border=false)
 
 ![chandannekya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandannekya&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
@@ -118,8 +117,10 @@
 
 <br/>
 
+<hr>
 
 [![An image of @chandannekya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandannekya)](https://holopin.io/@chandannekya)
+<hr>
 <table style="border: none">
 
   <tr>
