@@ -147,8 +147,6 @@ const chandan = {
 | 🧩 **DSA** | 400+ problems solved — DP, Graphs, Trees, Sliding Window |
 | 🌱 **GSSoC 2025** | Project Maintainer & Mentor — guided 60+ open-source contributors |
 | 🎓 **VP, Coding Club** | Led technical sessions & peer-driven problem solving at university |
-| 🛒 **Shopify Platform** | Served 1000+ merchant stores with embedded app features |
-| ⚙️ **Microservices** | 5+ independent services with Kafka, Redis, Docker at scale |
 
 ---
 
